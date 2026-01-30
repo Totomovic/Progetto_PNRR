@@ -11,12 +11,12 @@ Il progetto è sviluppato in **Python** tramite **Jupyter Notebook** e utilizza 
 
 I dataset provengono dal **portale open data ufficiale ItaliaDomani**, aggiornati regolarmente:
 
-1. **PNRR_soggetti.csv** – Elenco dei soggetti (enti pubblici e privati) coinvolti nei progetti.
-2. **PNRR_progetti.csv** – Tutti i progetti PNRR con finanziamenti, missione, componente e misure.
-3. **localizzacioneammTitolari_interoperabilità.csv** – Informazioni geografiche dei progetti e amministrazioni titolari.
-4. **aggiudicatari_gare.csv** – Imprese aggiudicatarie delle gare collegate ai progetti.
-5. **subappaltatori_gare.csv** – Subappaltatori coinvolti nelle gare.
-6. **gare.csv** – Dati sulle gare pubbliche (CIG, importi, tipologia procedura).
+1. **PNRR_Soggetti.csv** – Elenco dei soggetti (enti pubblici e privati) coinvolti nei progetti.
+2. **PNRR_Progetti.csv** – Tutti i progetti PNRR con finanziamenti, missione, componente e misure.
+3. **PNRR_AmmTitolari_interoperabilitaBDAP.csv** – Informazioni geografiche dei progetti e amministrazioni titolari.
+4. **PNRR_Aggiudicatari_Gare.csv** – Imprese aggiudicatarie delle gare collegate ai progetti.
+5. **PNRR_Subappaltatori_Gare.csv** – Subappaltatori coinvolti nelle gare.
+6. **PNRR_Gare.csv** – Dati sulle gare pubbliche (CIG, importi, tipologia procedura).
 
 > Fonte ufficiale: https://pnrr.datibenecomune.it/fonti/regis/
 
