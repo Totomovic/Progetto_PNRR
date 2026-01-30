@@ -1,30 +1,12 @@
 # Analisi del PNRR in Italia – Progetto Jupyter
 
 ## Descrizione del progetto
-Questo progetto esplora e analizza i dati del **Piano Nazionale di Ripresa e Resilienza (PNRR)** in Italia, utilizzando dataset ufficiali open data del portale [ItaliaDomani](https://pnrr.datibenecomune.it/).  
+Questo progetto esplora e analizza i dati del **Piano Nazionale di Ripresa e Resilienza (PNRR)** in Italia, utilizzando dataset ufficiali open data del portale ([https://pnrr.datibenecomune.it/).](https://pnrr.datibenecomune.it/fonti/regis/)  
 L’obiettivo è comprendere la distribuzione territoriale dei progetti, l’allocazione dei finanziamenti, lo stato di avanzamento e l’attività dei soggetti coinvolti, gare e subappalti.
 
 Il progetto è sviluppato in **Python** tramite **Jupyter Notebook** e utilizza librerie di data analysis come `pandas`, `matplotlib` e `seaborn` per la visualizzazione dei dati.
 
 ---
-
-## 📁 Struttura del progetto
-pnrr_italia_project/
-│── data/ # Contiene tutti i dataset CSV originali
-│ ├── PNRR_soggetti.csv # Enti coinvolti nei progetti
-│ ├── PNRR_progetti.csv # Elenco dei progetti PNRR
-│ ├── localizzacioneammTitolari_interoperabilità.csv # Localizzazione dei progetti e titolari
-│ ├── aggiudicatari_gare.csv # Imprese aggiudicatarie delle gare
-│ ├── subappaltatori_gare.csv # Subappaltatori delle gare
-│ └── gare.csv # Dati principali sulle gare
-│── notebooks/
-│ └── pnrr_analysis.ipynb # Notebook principale di analisi
-│── output/ # Grafici, tabelle e risultati esportati
-│── README.md # Questo file
-
-
----
-
 ## 🗂 Dataset utilizzati
 
 I dataset provengono dal **portale open data ufficiale ItaliaDomani**, aggiornati regolarmente:
