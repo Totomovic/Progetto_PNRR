@@ -1,7 +1,5 @@
 # Analisi del PNRR in Italia – Progetto Jupyter
 
-![PNRR](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ItaliaDomani_Logo.svg/800px-ItaliaDomani_Logo.svg.png)
-
 ## Descrizione del progetto
 Questo progetto esplora e analizza i dati del **Piano Nazionale di Ripresa e Resilienza (PNRR)** in Italia, utilizzando dataset ufficiali open data del portale [ItaliaDomani](https://pnrr.datibenecomune.it/).  
 L’obiettivo è comprendere la distribuzione territoriale dei progetti, l’allocazione dei finanziamenti, lo stato di avanzamento e l’attività dei soggetti coinvolti, gare e subappalti.
@@ -38,7 +36,7 @@ I dataset provengono dal **portale open data ufficiale ItaliaDomani**, aggiornat
 5. **subappaltatori_gare.csv** – Subappaltatori coinvolti nelle gare.
 6. **gare.csv** – Dati sulle gare pubbliche (CIG, importi, tipologia procedura).
 
-> Fonte ufficiale: [ItaliaDomani – Open Data PNRR](https://pnrr.datibenecomune.it/fonti/regis/?utm_source=github.com)
+> Fonte ufficiale: https://pnrr.datibenecomune.it/fonti/regis/
 
 ---
 
